@@ -23,4 +23,5 @@ L'output del prezzo finale va stampato in forma umana (con massimo due decimali,
 4. Il prezzo finale va indicato con i decimali.     
 
 ### STAMPA
+Stampare l'output in forma umana indicando i centesimi sul prezzo
 
